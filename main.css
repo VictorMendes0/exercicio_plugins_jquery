@@ -1,0 +1,59 @@
+body {
+    background-image: url(./gazing_stars-wallpaper-2560x1080.jpg);
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+    margin: 10px;
+}
+
+form {
+	color: #00ffdd;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 20px;
+	margin-bottom: 20px;
+    font-style: italic;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+form button {
+	margin-top: 10px;
+	padding: 10px 30px;
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+    font-size: 25px;
+}
+
+
+.container {
+	margin-right: 15% ;
+	margin-left: 15%;
+	margin-top: 10px;
+	border-collapse: collapse;
+	width: 70%;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	display: flex;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    margin-top: -25px;
+    border: none;
+}
+
+input {
+    margin-top: 5px;
+    font-size: 100%;
+}
