@@ -2,6 +2,11 @@ body {
     background-image: url(./gazing_stars-wallpaper-2560x1080.jpg);
 }
 
+header img {
+    height: 5em;
+    margin-right: 16px;
+}
+
 h1 {
     text-align: center;
     color: aliceblue;
@@ -57,3 +62,4 @@ input {
     margin-top: 5px;
     font-size: 100%;
 }
+
